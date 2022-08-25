@@ -1,6 +1,8 @@
 name: mvvm_demo
 description: A new Flutter project.
 
+.ASPXAUTH=38B03DBBF3B4E68E1A479CBE3E60368557160BA1936E8FEDD2635B96324E2EF25AFBA457F349A972B741D6E0DE1B3E7B49029EAC0D136A1CD5149F1EC3A4FEA0DF02D114493A814E5F7935CB069C3E5587389A7D6C139432BA648B589804889D7E1359BFB47B0F0F6BD1BCD64A937F7790CF18D2DD1AAE8B1ED60A8515B8DA9C19F7D5ED
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
